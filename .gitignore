@@ -1,0 +1,6 @@
+firebase-key.json
+bin/
+obj/
+.vs/
+MobiGest.Api - Copia/
+*.csproj.user
